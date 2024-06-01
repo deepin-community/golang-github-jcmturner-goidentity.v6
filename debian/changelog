@@ -1,5 +1,13 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-jcmturner-goidentity.v6 (6.0.1-2) unstable; urgency=medium
 
-  * Initial release
+  * Source-only upload to allow migration to testing
+  * Fix VCS locations
+  * Lintian override (Lintian bug 1014885)
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Matthew Vernon <matthew@debian.org>  Wed, 07 Dec 2022 14:55:33 +0000
+
+golang-github-jcmturner-goidentity.v6 (6.0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1025473)
+
+ -- Matthew Vernon <matthew@debian.org>  Mon, 05 Dec 2022 12:15:59 +0000

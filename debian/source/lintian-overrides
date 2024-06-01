@@ -1,0 +1,2 @@
+#Lintian bug #1014885
+golang-github-jcmturner-goidentity.v6 source: unknown-field Go-Import-Path
